@@ -2,7 +2,7 @@
     <div class="bg-white">
         <div class="h-[100px] mt-8"></div>
         <div class="flex">
-            <div class="h-[300px] min-w-[50%] max-w-[45%] flex">
+            <div class="h-[300px] min-w-[50%] max-w-[45%] flex ">
                 <div class="min-w-[20%]"></div>
 
                 <div class="max-h-[50%] max-w-[65%] min-w-[65%]">
