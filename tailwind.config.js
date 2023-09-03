@@ -20,7 +20,7 @@ module.exports = {
         stuck: 'hsla(264, 8%, 16%, 1)',
         Lightblack: 'hsla(0, 0%, 0%, 1)',
         veryLightGray: ' hsla(265, 8%, 40%, 1)',
-        yellowcolr:'hsla(54, 96%, 53%, 1)',
+        pink:'hsla(357, 76%, 95%, 1)',
         icl:'hsla(54, 100%, 45%, 1)',
         bodycolor: 'hsla(350, 67%, 96%, 1)',
         Textlight:'hsla(0, 0%, 47%, 1)',

@@ -1,11 +1,12 @@
 <template>
-<div class="bg-bodycolor">
+<div class="bg-white">
   <Navbar></Navbar>
-  <Hero></Hero>
+  <course></course>
+  <!-- <Hero></Hero>
   <SecondHero></SecondHero>
   <programme></programme>
   <LearnTech></LearnTech>
-  <Footer></Footer>
+  <Footer></Footer> -->
 </div>
 </template>
 
@@ -17,6 +18,7 @@ import SecondHero from './components/SecondHero.vue'
 import programme from '../src/components/programme.vue'
 import LearnTech from '../src/components/Learntech.vue'
 import Footer from '../src/components/Footer.vue'
+import course from '../src/components/SingleCourse.vue'
 export default {
   name: 'App',
   components: {
@@ -26,6 +28,7 @@ export default {
     programme,
     LearnTech,
     Footer,
+    course
   }
 }
 </script>
